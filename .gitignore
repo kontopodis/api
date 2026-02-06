@@ -1,6 +1,5 @@
 .idea
 .venv
-
 # Default ignored files
 /shelf/
 /workspace.xml
@@ -11,3 +10,5 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+db.sqlite3
